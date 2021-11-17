@@ -7,6 +7,6 @@
 ### 東京都デジタルツイン実現プロジェクト
 情報発信サイト   
 https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/   
-東京都デジタルツイン3Dビューア（β版）   
-https://3dview.tokyo-digitaltwin.metro.tokyo.lg.jp/  
-※ 上記の情報発信サイトからリンクされております。
+東京都デジタルツイン3Dビューア（β版）    
+※ 上記の情報発信サイトからリンクされております。  
+https://3dview.tokyo-digitaltwin.metro.tokyo.lg.jp/ 
