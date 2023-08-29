@@ -21,3 +21,5 @@ https://3dview.tokyo-digitaltwin.metro.tokyo.lg.jp/
  * [2021年度 第4回](https://github.com/tokyo-digitaltwin/kentoukai_document/blob/main/kentoukai04/20220203_%E7%AC%AC4%E5%9B%9E%E6%A4%9C%E8%A8%8E%E4%BC%9A%E8%AD%B0%E4%BA%8B%E9%8C%B2.md)
  * [2022年度 第5回](https://github.com/tokyo-digitaltwin/kentoukai_document/blob/main/kentoukai05/20220628_%E7%AC%AC5%E5%9B%9E%E6%A4%9C%E8%A8%8E%E4%BC%9A%E8%AD%B0%E4%BA%8B%E9%8C%B2.md)
  * [2022年度 第6回](https://github.com/tokyo-digitaltwin/kentoukai_document/blob/main/kentoukai06/20220830_%E7%AC%AC6%E5%9B%9E%E6%A4%9C%E8%A8%8E%E4%BC%9A%E8%AD%B0%E4%BA%8B%E9%8C%B2.md)
+ * [2022年度 第7回](https://github.com/tokyo-digitaltwin/kentoukai_document/blob/main/kentoukai07/20221128_%E7%AC%AC7%E5%9B%9E%E6%A4%9C%E8%A8%8E%E4%BC%9A%E8%AD%B0%E4%BA%8B%E9%8C%B2.md)
+ * [2022年度 第8回](https://github.com/tokyo-digitaltwin/kentoukai_document/blob/main/kentoukai08/20230208_%E7%AC%AC8%E5%9B%9E%E6%A4%9C%E8%A8%8E%E4%BC%9A%E8%AD%B0%E4%BA%8B%E9%8C%B2.md)
